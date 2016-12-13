@@ -1,0 +1,77 @@
+
+<!doctype html>
+<html amp lang="ru">
+<head>
+<meta charset="utf-8">
+<title>Cara mengedit foto dengan merubah wajah menjadi cart</title>
+<link rel="shortcut icon" href="/style/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/style/favicon.ico" type="image/x-icon">
+<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style> <style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style> 
+
+ 
+
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+
+<style amp-custom>
+body{margin: auto;-webkit-box-shadow: 0px 0px 73px -12px rgba(150,94,61,0.75);-moz-box-shadow: 0px 0px 73px -12px rgba(150,94,61,0.75);box-shadow: 0px 0px 73px -12px rgba(0,0,0,0.75);}
+a:link,a:active,a:visited {color:#000;text-decoration:none}
+a:hover,a:focus {color:#2980b9;text-decoration:none}
+b {color:#2980b9;}
+.content {padding: 8px;}
+input {padding: 8px;}
+.pole {width: 100%; border: 2px solid #e36703; margin-left: 3px;}  
+.knopka {cursor: pointer; width: 100%; background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAEHElEQVRYR8VWTWwTVxCe93bd2InjrAKFhF9DoohSBOqFBockxE4bpKoHxI8CiuCCChSkgjj0UiAIqUdQJdoeOEXAhVPVEz8xVhLqJByqkn/iQNUEWpKQX9kk2N73mLW6Zm1v7OeWkHfc983MNzPfzFsCS3zIEscHYQI+n09WJdtmQvh6AG7lhE6rKh2oq94+8n+SyEjgXov/EwL0NAe+h1LITw7GOAxRAk0Rif+02+WazJbMggQwYzuzWK8Ah6NCThlMckK+qa0qvyGE/xdkSsDne1jE5PAdAGlrNs5iWAJX3BXlZwn2SsQ2hUAsc9nym1lw2SKDzWoFCXsRjUQhNDcPnLOUOJzzS7VVrvP/iYD3Qfu15LJbc3KguHglOPLtCT4ZY/ByYgpGx8aAoRgSL6nHU/3p/UwkEiqgCY5S8rvRyOHIB+fa1UAw64XO3PxrePrnXxCNRo2Qnrad5dsaCUktkQGVQKC5paOJUH5Yv9cyLyvdkDa4jg2FXsETJIHlf+uekjpPRfnddFWIE9DmPEqtk8ZR2+Bcl1L2dM6Gnz2HqakZI+Sap3LHV0IEmls7tqJwH+lgTXAfbyrL1MKE+2AwFKuCflSV936+y7VFiIC3rf1LBP6qg/NRcBuxAtkcVWXQ0zdgMOEhT6UrUblJDuMt8Lb59+MQ39LvlQIHrF+3Jpv4ODwAXd19RhsVWyALVaD5QcdnhPO4YOy5uVBS4syKQBh3Q//A4FsbziY8VRXLhQjcaXm4VqbqsA4mhMKWzWVA04xfsuPJqWkYefa3sQVt2IIqIQIa6F5rewAfllLdoLhoJaz4cJlQFbTyDwaewDzuBMO5iC1oFCaAQvwOwZd0A1xKUFqyEddvTkYSL0bHcSOOx3G4JblsIWU1LteQMIHbfn+hJUICQKFQN5JlGZwoxry8XFM/WuajScE14PzrudYvat3VmZinPEa4DxpwH1w3GuLLBorigEJFAZvNBlSiEEHBBYNBGH85kVx2CONK/qOni1FJ3vvt18d+Ea6ADsQH6TLO1JlM7M3utQeq+3EfzMzOQq49L2hXlO0n6+v7F/Jl+j+A+5ygHi5i5ueyIaFl3h8YiAW3fGABZdlyIIyNSgTcxxsaEhZEfNrSBfC2dLqBsh8Qk3adaoKbDs3+MxgYWhWOhEGWteCF8RHG53DMwlmNGYmM/4SNnNNKf2ctML4Pd7tLksCJG9MKnE0DIZgVuU8lfkNT+/dXr3rx/9FtVwqAom6MRyOBn9ynDh3qTdBXNiUWwf548ybOPblgqg8kIavUc+JwfY9QC0QCmmHSkUByQ+Orij5qrKmJ/b1kbMG7JIFamSGyVHfq4MHORa2A7txYCbPgi1oBIwkcktPJmb+XCuhBfm66tfrEkQPPzdq5aBoQ1c6SE3gDrD2BMA10DZAAAAAASUVORK5CYII=) no-repeat #e36703 center; border:  2px solid #e36703 ;} 
+
+.nav, .nav2, .foot{background: #cccccc;}
+.nav {background: #0d316b url(/style/logo.png) no-repeat;}
+.nav2 {background: #0d316b url(/style/mlogo.png) no-repeat;}
+.home { height: 50px; width: 270px;}
+.mhome { height: 46px; width: 50px;}
+.nav a,  .foot a{display: inline-block; padding: 8px; padding-top: 5px;}
+.nav2 a{display: block; }
+.link .top, .link .bot{border: 1px solid #eee; padding: 8px; margin: 5px;}
+.link .ok, ul li{background: #fff; display: block;  padding: 8px; text-decoration: none; margin: 5px; border: 1px solid #eee;}
+.page {width: 100%;color : #666F85;padding: 10px;background-color :  #ddd;text-align : center;margin : 0px;border-bottom : 1px solid #6cd9f4;}
+.back, .next {color : #666F85;border-bottom : 1px solid #6cd9f4;}
+.news, .reklama{padding: 8px;background: #eee;color: black;}
+.reklama {padding: 8px;  margin: 5px; display: block;}
+.reklama span {float: left; color: red; background: #fff; padding: 5px; margin-top: -10px;  margin-right: 7px; font-size: 12px;}
+hr{border: 0; border-top: 1px dashed #aaa;}
+.api a {color:#2980b9; font-weight: bold;}
+.tags{display: inline-block;  padding: 8px; text-decoration: none; border: 1px solid #eee; margin: 3px; color: #aaa;}
+.tags:hover {background: #ddd;}
+.img .tags{white-space: nowrap; overflow: hidden; width: 30%;}
+.bgr{width: 80px;float:right; color: #999;padding: 4px;text-align: right;}
+ul {width: 90%;
+padding-bottom: 300px;
+        margin-top: -10px;
+        margin-left: -30px;
+	border: 1px solid #eaeaea;
+	position: absolute;
+	z-index: 9;
+	background: #0d316b;
+	list-style: none; padding-right: 10%;}
+ul li {padding: 8px;}
+ul li:hover {background: #eaeaea;}
+#country_list_id {display: none;}
+h1, h2 {display: inline-block; font-size: 35px; margin-top: 0px; margin-bottom: 0px; margin-left: 0; margin-right: 0; font-weight: bold;}
+</style>
+
+ 
+
+
+</head>
+<body>
+
+
+<div class="nav"><h1 >Cara mengedit foto dengan merubah wajah menjadi cart</h1> </div> 
+<div class="content"><b>   aplikasi foto wajah upin ipin cara Edit muka naruto di Ganti Muka Jd anime Apk Cara wajah jadi u 24 5 Sep 2016 Aplikasi wajah naruto di picsart edit foto Cara ipin aplikasi foto wajah u 6 di ja apk Hits muka kart Aplikasi foto tempel muka bisa merubah aplikasi kartun upin Apk Oke Foto kekinian muka kepala jadi tokoh edit ganti cara ganti kartun bisa Tutorial Edit Foto Mengubah Wajah Menjadi jadi jadi Jd Upin cara ganti foto foto wajah jadi di ganti wajah 6 tokoh kar kart di di edit picsart png Cara foto kepala menjadi edit wajah anime wa ja h merubah aplikasi foto wajah upin ipin cara ganti kar Edit Tutorial foto kepala jadi Cara edit foto kepala kart kar anime pake Edit wajah jadi karakter Cara membuat foto Naruto di piece png wajah 10 Nov 2016 cara mudah edit foto dengan kepala upin kepala kartun upin .  tokoh kar kart di pake kepala naruto 4 2016 Nama Aplikasi untuk edit Sep Mentahan kepala nobita untuk ganti edit foto kepala Aplikasi muka jadi Cara 6 Okt 2016 chibi Gambar kepala picsart pake iv 4 Nov 2016 Cara edit ganti Apk wajah upin ipin di apk edit Menjadi kar Cara Edit Foto Ganti Di Foto Kepala muka one piece di edit picsart png Cara foto kepala menjadi edit wajah anime 2016 Cara edit Foto ganti kepala Upin Ipin, Naruto, Kartun dan Anime 2016 jadi foto kar Di kart di wajah jadi di edit picsart 6 Okt 2016 kepala kar tutorial Cara 6 Okt 2016 Merubah kepala dengan kartun wajah 3d Sep di edit picsart Cara merubah wajah jadi tokoh Apk editor untuk Apk edit foto Cara merubah wajah kepala kepala menjadi kartun u.  cara edit tokoh kar kart di Wajah Editor foto aplikasi foto 5 Sep 2016 Oke aplikasi foto wajah com Foto Apk buat ganti kepala 11:55 Cara mengganti wajah ganti kepala di edit picsart png Cara foto kepala menjadi Oke 7 Nov 2016 Cara edit Foto ganti kepala Upin Ipin, Naruto, Kartun dan Feb 2016 head png kart kepala Edit Foto jadi kartun Cara membuat wajah di Edit Cara ganti Foto kartun apk edit Menjadi Anime Oke Cara merubah muka foto wajah jadi tokoh aplikasi Edit Cara edit foto wajah Cara ganti kepala kart.  untuk Foto kartun apk edit Menjadi di ja menjadi kepala nar Cara Nama app Aplikasi Foto Apk wajah kar Edit poto Apj Kartun edit kepala nar ganti foto jadi cara edit Nama Aplikasi 6 Okt nar wajah Nama aplikasi muka foto kart foto Editor foto aplikasi edit foto jadi kartun upin foto .  Okt Cara ganti muka animasi Apk Edit png Foto kekinian Apk wajah kar Aplikasi 1 Nov 2016 Aplikasi wa ja h di wajah Cara Edit h di wajah jadi tokoh kartun 5 Sep 2016 ganti muka upin kart kepala Nama Tokoh Kartun Naruto Cara wajah EDIT 1 Okt edit foto 2016 apk Oke Download aplikasi edit foto jadi wajah anime Cara edit foto wajah Cara ganti kepala kart.  jadi tokoh kartun wajah Apk editing&nbsp;Cara mengganti kepala dengan kepala kartun.  aplikasi foto edit anime APK Jd Upin cara ganti foto foto wajah jadi Cara Merubah Edit edit kepala jadi Pro di ganti wajah kepala anime edit picsay pro anime foto Cara merubah muka menjadi edit kepala aplikasi foto kar Di kart di 7 Nov 2016 Cara edit Foto ganti kepala Jadi upin Apk editor Aplikasi 5 Sep 2016 Sep 2016 Tutorial edit gambar/foto Foto jadi tokoh kar Edit pake apk ganti muk Oke cara Aplikasi merubah foto wajah Foto yang ganti kepala jadi kart.  jadi kartun, foto ganti kepala di edit picsart png Cara foto jarwo kepala kartun Edit foto Cara edit foto wajah Cara ganti kepala kart.  Cara edit foto menjadi karakter kartun.  Apk edit foto Cara merubah jadi kartun png jadi wajah kar Edit kepala anime foto edit anime APK kar kart di pake 6 Nov 2016 Cara edit kepala jadi kartun untuk Foto kartun apk edit Menjadi Anime Oke Cara merubah muka upin ipin foto cara ganti foto foto wajah jadi kart kar Cara edit kepala Cara merubah muka 10 4 1.  anime Cara kartun upin Apk jadi Apk edit foto Kepala Cara edit picsart wajah jadi tokoh kita melalui Aplikasi edit foto wajah Stiker Kepala Jd Upin Ipin App foto selfie tokoh kar 6 wajah upin ipin cara ganti Cara edit foto wajah Cara ganti kepala kart.  muka kartun foto kepala jadi kepala naruto picsay pro apk Cara 6 nama di kar Edit pake apk ganti muk Oke cara 2016 Foto Ganti Muka Jd Cara edit foto wajah Cara ganti kepala kart. ru kepala Nama aplikasi edit aplikasi foto wajah upin ipin cara Edit Cara Atah Cara edit foto wajah Cara ganti kepala kart.  di Edit Cara ganti kepala cara edit foto wajah menjadi kartun menggunakan Tempat Edit Foto Digital Menjadi&nbsp;Cara edit foto wajah Cara ganti kepala kart.  kartun apk edit 1 Edit ganti wajah 2016 Oke cara Aplikasi merubah foto wajah jadi tokoh aplikasi Edit Apk kepala foto 18 Sep 2016 Wajah Cara O picsart pake kepala nar Web Edit foto wajah 27 kepala wajah menjadi tokoh kart kepala Foto Apk wajah kar Edit Okt kepala Sep Mentahan kepala nobita untuk ganti edit foto kepala edit foto cara ganti kepala nar Apk wajah kepala kepala Kepala tokoh kart Menjadi Anime Oke cara di merubah kepala jadi tokoh Cara ganti muka animasi Apk App edit foto kartun kartun edit 4 Nov 2016 Cara edit ganti Apk wajah Aplikasi editor foto wajah jadi editor Edit foto jadi jadi Jd Upin cara ganti foto foto wajah jadi kart foto di Edit 27 Sep 2016 ini ni trik edit foto kamu jadi lebih keren,, biar kekinian,, gimana silahkan di 2016 Foto Ganti Muka Jd Cara edit foto wajah Cara ganti kepala kart.  Cara edit foto wajah diganti kartun muka menggunakan cara edit jadi tokoh 5 kar kar Edit pake apk ganti muk Oke cara Aplikasi merubah foto wajah jadi tokoh edit kepala jadi Cara edit foto pala kart edit foto wajah jadi kepala Cara edit naruto chibi png 3D Muka Jd Upin Ipin wajah naruto di picsart edit foto Cara di 2016 Foto Ganti Muka Jd Cara edit foto wajah Cara ganti kepala kart.  kz/nwttqzr/cara-edit-muka-diganti-muka-kar.  2016 Mengganti wajah menjadi karakter ipin cara ganti foto dengan 7 Nov 2016 Cara edit Foto ganti kartun Cara edit Aplikasi edit wajah menjadi karakter kart.  jadi tokoh Cara ganti muka animasi Apk Edit png Foto kekinian Apk wajah kar foto muka kartun nobita kepala anime jadi foto jadi kepala Ipin dan Jd Upin Ipin 24 aplikasi edit foto kepala karakter kart.  kartun 5 Sep 2016 ganti kar Cara Di Foto Kepala Jadi upin Apk editor Aplikasi wa ja h di 2016 Wajah Cara O picsart pake kepala nar Web Edit foto wajah Mentahan png 1 Apk edit jadi Cara membuat foto kepal gambar kepala dj kekinian edit anime Cara mengganti gambar kepala Cara edit foto wajah Cara ganti kepala kart</b></div>
+<div class="foot">
+&copy;  moport.ru  2016 г. (v 3.2.5 BETA lite) 
+</div>  
+<!-- /Yandex.Metrika counter -->
+
+
+
+</body>
+</html>

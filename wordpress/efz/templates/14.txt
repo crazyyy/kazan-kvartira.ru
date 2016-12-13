@@ -1,0 +1,163 @@
+
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"/><link rel="stylesheet" href="style.css" type="text/css"/><title>
+     {keyword}
+    </title><link rel="icon" type="image/x-icon" href="images/favicon.ico"/><link rel="stylesheet" type="text/css" href="style.css"/>
+    <style type="text/css">
+<!--
+.style2 {
+	color: #FF0000;
+	font-size: large;
+}
+.style6 {
+	font-size: large;
+	color: #CCFF33;
+}
+.style9 {
+	color: #FFFF33;
+	font-size: 16px;
+}
+.style11 {
+	color: #990000;
+	font-size: 16px;
+}
+.style15 {font-size: 16px}
+.style16 {color: #CC3300}
+.style17 {color: #CCCC00}
+.style18 {
+	color: #CC0000;
+	font-size: 18px;
+}
+.style26 {
+	color: #00CCFF;
+	font-size: 14px;
+}
+.style28 {
+	color: #CCCCCC;
+	font-size: 14px;
+}
+.style30 {font-size: 14px; color: #6633FF; }
+.style32 {font-size: 14px; color: #FF9966; }
+.style33 {font-size: 18px}
+.style36 {
+	color: #FFFF00;
+	font-size: 12px;
+}
+.style42 {
+	color: #33FFFF;
+	font-size: 14px;
+}
+.style45 {font-size: 14px; color: #33FF00; }
+.style47 {font-size: 14px; color: #330033; }
+.style49 {font-size: 14px; color: #990033; }
+.style50 {font-size: 16px; color: #00FF00; }
+.style52 {font-size: 14px; color: #990066; }
+.style53 {font-size: 14px; color: #FFCCCC; }
+.style55 {font-size: 14px; color: #FF00FF; }
+.style57 {color: #33CC00; font-size: 14px; }
+.style59 {
+	color: #CC0000;
+	font-size: 16px;
+}
+.style60 {
+	color: #330066;
+	font-size: 14px;
+}
+.style61 {
+	color: #FF9900;
+	font-size: 14px;
+}
+.style62 {
+	color: #0066FF;
+	font-size: 14px;
+}
+.style63 {
+	color: #00CC99;
+	font-size: 14px;
+}
+.style64 {
+	color: #FF6600;
+	font-size: 14px;
+}
+.style67 {color: #009900; font-size: 14px; }
+.style68 {
+	color: #FF0066;
+	font-size: 14px;
+}
+.style69 {
+	color: #0000FF;
+	font-size: 16px;
+}
+.style70 {
+	color: #666600;
+	font-size: 14px;
+}
+.style71 {
+	color: #0000CC;
+	font-size: 14px;
+}
+.style73 {font-size: 14px; color: #FF00CC; }
+.style74 {
+	color: #660033;
+	font-size: 14px;
+}
+.style76 {color: #CCCC00; font-size: 14px; }
+.style77 {
+	color: #663333;
+	font-size: 14px;
+}
+.style87 {
+	color: #CC9900;
+	font-size: 14px;
+}
+.style91 {font-size: 14px}
+.style92 {color: #CC0000; font-size: 14px; }
+.style93 {color: #FF0099; font-size: 14px; }
+.style94 {color: #FF0033; font-size: 14px; }
+.style95 {font-size: 14px; color: #000000; }
+.style96 {color: #00CC00; font-size: 14px; }
+.style97 {font-size: 14px; color: #FF0000; }
+.style98 {font-size: 14px; color: #000099; }
+.style99 {color: #FF3300; font-size: 14px; }
+.style100 {color: #33FF33; font-size: 14px; }
+.style101 {color: #CC00FF; font-size: 14px; }
+.style102 {font-size: 14px; color: #00FF00; }
+.style103 {color: #66FF00; font-size: 14px; }
+.style104 {color: #CC3300; font-size: 14px; }
+.style105 {font-size: 14px; color: #0000FF; }
+.style106 {color: #339900; font-size: 14px; }
+.style114 {color: #0000CC; font-size: 12px; }
+.style116 {color: #990099; font-size: 14px; }
+.style120 {
+	color: #0000FF;
+	font-size: 14;
+}
+.style121 {
+	color: #990000;
+	font-size: 14;
+}
+.style123 {font-size: 14px; color: #9900CC; }
+.style126 {color: #990000; font-size: 14px; }
+.style128 {color: #CC0066; font-size: 14px; }
+.style131 {font-size: 14px; color: #0033FF; }
+-->
+    </style>
+    </head><body> 
+<div class="pastki"><center><b> </b><span class="style33"><b> <span class="style36">|</span> </b></span><h1> {keyword} </h1>
+    </center></div>
+<div class="pastki">
+  <div align="justify"><b> </b> <span class="style17"></span> </div>
+  </b></div>
+<div class="pastki style18"><center>
+  <span class="style92">{manytext_bing}</span>
+</center></div>
+<div class="cont"> <img alt="teasers for site" src="http://on-ads.ru/banners/images/teaser_1463631553.png" style="opacity: 1 !important;"> </div><div class="cont">
+  <div align="left"> </div></div><div align="center"><div></div>
+    </div>
+<div class="pastki">
+            <center>
+              Adminstrator Eshmurodov Nuriddin [+998943391741]
+            </center> 
+    </div> 
+<div class="pastki"><div class="pastki"></div>
+   </div> </body>
+</html>

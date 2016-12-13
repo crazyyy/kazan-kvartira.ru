@@ -1,0 +1,48 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="http://badmanzone.com/favicon.ico"><title>{keyword}</title><link rel="alternate" type="application/rss+xml" title="RSS BadmanZone" href="/rssnews/rss.xml"/>
+<style type="text/css">
+
+body { font-weight: normal; font-family: sans-serif; font-size: 15px; color: white; background-image:url(http://badmanzone.com/images/bf.jpg); }
+a:link { text-decoration: underline; color : gold; }
+a:active { text-decoration: underline; color : white; }
+a:visited { text-decoration: underline; color : gold; }
+a:hover { text-decoration: none; font-size: 19px; color : gold; }
+div { margin: 0px 0px 0px 0px; padding: 1px 1px 1px 1px; font-weight: bold;}
+table { margin: 0px 0px 0px 0px; padding: 1px 1px 1px 1px; font-size: 9px; font-weight: bold;}
+.a {background-color: #000000; margin: 0px; border-top: 5px solid #FFFFFF; border-bottom: 5px solid #FFFFFF; padding: 6px; vertical-align: middle; text-align: center; color: #FFFFFF;}
+
+
+.b {background-color: #000000; margin: 0px; border-top: 5px solid #FFFFFF; border-bottom: 5px solid #FFFFFF; padding: 6px; vertical-align: middle; text-align: left; color: #FFFFFF;  }
+
+.c {background-color: #000000; margin: 0px; border-top: 5px solid #FFFFFF; border-bottom: 5px solid #FFFFFF; padding: 6px; vertical-align: middle; text-align: center; color: #C0C0C0;}
+
+
+.d {background-color: #0000FF;  text-align: center; font-size: 12px; color: #FFFF00; }</style></head>
+</center></div>
+
+<h1>{keyword}</h1>
+<p><strong>{manytext_bing}</strong></p>
+</div></body></html>
+</p>
+
+<p style="text-align: center;">
+    <br/>
+</p>
+
+<p style="text-align: center;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

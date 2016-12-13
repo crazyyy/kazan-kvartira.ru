@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru">
+<head>
+<meta name="viewport" content="width=device-width">
+<title>
+{keyword}</title>
+
+<link rel="shortcut icon" href="/style/themes/default/favicon.ico" />
+<link rel="stylesheet" href="/style/themes/default/style.css" type="text/css" />
+</head>
+<body>
+
+
+<div class="body">
+	<div class="logo">
+	</div><div class='block'><div class='nav1'><h1> <font color=yellow>{keyword}</font></h1>
+<div class='nav'> <b> <font color=blue>{manytext_bing}</font></b></div> 
+<br />
+  </div></div><div class="block">
+</div></div><div class='main'></div></div><div class="title">
+<span style='color:blue'><center>
+&copy;  lo-v-e.ru - 2016г.
+</center></span>
+</div>
+ </body></html>

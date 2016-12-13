@@ -1,0 +1,122 @@
+
+<!--?xml version="1.0" encoding="utf-8"?-->
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru">
+
+<head>
+  <title>{keyword}</title>
+  <link href="/assets/public/mobile-2cc0284ee56ce0cabb478729043abc5ab077ecaee449751bbfeed3ca6b695567.css" media="all" rel="stylesheet" />
+  <meta content="authenticity_token" name="csrf-param" />
+<meta content="nVV6BvvkL/a1v/0/vq4/AuB72ocJizNERWR+bj5rVuc=" name="csrf-token" />
+</head>
+<body>
+	
+
+	<div class="main">
+</div> 
+	<div class="main">
+	
+	<div class="octobird-block"></div>
+</div>
+
+
+	<main role="main">
+		<h1 class="title">{keyword}</h1>
+
+	<div class="main"><br />
+	</div>
+
+	<div class="main">
+				<img alt="Preview cover" src="/uploads/films/2423/cover/preview_cover.jpg" />
+	</div>
+
+	<div class="block"></div>
+
+	<div class="main">
+		{manytext_bing}<br />
+
+	</div>
+
+	<div class="title"><span class="small_text"><br />
+	</span>
+	  </div>
+	<div class="block">
+	  <hr />
+	  <span class="small_text"><br />
+				</span>
+				<hr />
+				<span class="small_text"><br />
+				</span>
+				<hr />
+
+	</div>
+
+
+			<div class="title"></div>
+			<div class="block"> 
+					
+					<hr />
+					
+					<hr />
+					
+					<hr />
+					
+					<hr />
+					
+					<hr />
+					
+					<hr />
+					
+					<hr />
+					
+					<hr />
+					
+					<hr />
+					
+					<hr />
+					
+					<hr />
+					
+					<hr />
+					
+					<hr />
+					
+					
+			</div>
+
+		</div>
+
+
+	</main>
+
+	<footer class="foot" role="contentinfo">
+				 <br />
+				 <br />
+	  <br />
+	</footer>
+
+	<!-- luxads -->
+	
+
+<div class="feedbacks">
+			
+</div>	
+
+	<div class="banners">
+		
+</div>
+
+	<!-- octobird -->
+	
+
+<!-- google analytics -->
+	
+
+<!-- mobtop -->
+	</noscript>
+
+
+</body>
+
+</html>
+

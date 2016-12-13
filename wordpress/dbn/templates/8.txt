@@ -1,0 +1,87 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head><title>{keyword}</title>
+<!--1317883539-->
+<meta name="Description" content="{keyword}">
+<meta name="Keywords" content="{keyword}">
+<meta name="google-site-verification" content="YE3-X5VbYvu0v4kzN286FRWwDkVtz-6zHXIX1_DjC2c" />
+<<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Pragma" content="no-cache">
+<link type="text/css" rel="stylesheet" href="/patterns/style_25.09.css">
+
+</head>
+<body>
+ <center>
+
+ <table cellspacing="0" cellpadding="0" border="0" class="frame">
+ <tr>
+  <td style="background-color: #000000">
+   <img src="/patterns/images/logo.jpg" alt="">
+  </td>
+ </tr>
+ <tr>
+  <td class="content">
+   
+<div id="mads"></div>
+  </td>
+ </tr>
+ <tr>
+  <td class="sort_links">
+   <a href="/reviews/26/add_review">{keyword}</a>
+  </td>
+ </tr>
+  <tr>
+ <td align="left" class="content">
+  
+<div id='j5f91d611521cf36b7b' style='font-size:10px;text-align:center'> <!--2080243654317-->
+  {manytext_bing}<br><br>
+    </div><div class="content">
+    <div class="review"></div>
+</div>
+ </td>
+</tr>
+<tr>
+ <td class="pages">
+ </td>
+</tr>
+<tr>
+  <td class="pages">
+    </td>
+</tr><tr>
+ <td align="center" class="pages">
+  <center><div class="bpn"></div></center>
+ </td>
+</tr>
+ <tr>
+  <td class="main_bottom_links">&nbsp;</td>
+ </tr>
+ <tr>
+  <td class="content">
+   <div align="center" style="margin: 2px auto;"><table style="margin: 0 auto; background-color: #FFF;max-height: 80px;max-width: 468px;min-height: 36px;min-width: 216px;border: 1px solid #D8D9DA;cursor: pointer;border-collapse: collapse;width: 100%;" onclick="window.open('http://go.octobird.com/?v=5835c07076b9a5bf4792a2dd&amp;s=911&amp;b=54751','_blank');">
+<tr>
+<td style="text-align:center;padding:0;border:0;height:80px;width:80px;">&nbsp;</td>
+<td style="padding: 2px 6px;vertical-align: middle;font-size: 14px;line-height: normal;color: #464D51;font-family: Arial;text-align: left;text-decoration: none;border: 0;">&nbsp;</td>
+</tr>
+</table><img src="http://show.octobird.com/beacon.php?v=5835c07076b9a5bf4792a2dd&amp;s=911&amp;b=54751" style="position: absolute; left: -1000px; width: 1px; height: 1px;" alt="" /></div><!-- fe34er3 -->
+<div align="center" style="margin: 2px auto;"><table style="margin: 0 auto; background-color: #FFF;max-height: 80px;max-width: 468px;min-height: 36px;min-width: 216px;border: 1px solid #D8D9DA;cursor: pointer;border-collapse: collapse;width: 100%;" onclick="window.open('http://go.octobird.com/?v=5835c07076b9a5bf4792a2de&amp;s=911&amp;b=54809','_blank');">
+<tr>
+<td style="text-align:center;padding:0;border:0;height:80px;width:80px;">&nbsp;</td>
+<td style="padding: 2px 6px;vertical-align: middle;font-size: 14px;line-height: normal;color: #464D51;font-family: Arial;text-align: left;text-decoration: none;border: 0;">&nbsp;</td>
+</tr>
+</table><img src="http://show.octobird.com/beacon.php?v=5835c07076b9a5bf4792a2de&amp;s=911&amp;b=54809" style="position: absolute; left: -1000px; width: 1px; height: 1px;" alt="" /></div><!-- fe34er3 -->
+<div align="center" style="margin: 2px auto;"><table style="margin: 0 auto; background-color: #FFF;max-height: 80px;max-width: 468px;min-height: 36px;min-width: 216px;border: 1px solid #D8D9DA;cursor: pointer;border-collapse: collapse;width: 100%;" onclick="window.open('http://go.octobird.com/?v=5835c07076b9a5bf4792a2df&amp;s=911&amp;b=54810','_blank');">
+<tr>
+<td style="text-align:center;padding:0;border:0;height:80px;width:80px;">&nbsp;</td>
+<td style="padding: 2px 6px;vertical-align: middle;font-size: 14px;line-height: normal;color: #464D51;font-family: Arial;text-align: left;text-decoration: none;border: 0;">&nbsp;</td>
+</tr>
+</table><img src="http://show.octobird.com/beacon.php?v=5835c07076b9a5bf4792a2df&amp;s=911&amp;b=54810" style="position: absolute; left: -1000px; width: 1px; height: 1px;" alt="" /></div><!-- fe34er3 -->
+  </td>
+ </tr>
+ </table>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,lj,friendfeed,moikrug"></div>
+<small><br>
+<br><noindex></noindex>
+</center>
+</body>
+</html>

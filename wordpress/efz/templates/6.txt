@@ -1,0 +1,11 @@
+
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd"><html xmlns="http://www.w3.org/1999/xhtml" href=""><head><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/><title>{keyword}</title><link rel="stylesheet" type="text/css" href="../yuklamalar/MusicVoy.Lark.Ru/Universal._.Portal/Jga.jJjjjgpTd.m7g6.aGm/jgaj6Gtm.Ajg84.3.css"/><link rel="icon" href="/favicon.ico" type="image/x-icon"/><link rel="stylesheet" type="text/css" href="/xm.l.htm.Dot0upis5s26.css"/></head><body>
+<div style="text-align:justify; "> </div>
+<div style="font-weight:bolder; color:red;" class="cont"><h1>{keyword} </h1><span style="color:black;"> </span></div>
+<div class="zor">  <b>{manytext_bing}</b> </div>
+<div class="zor"> <br/></div><div class="zor">
+<div class="zor" align="center"> <div class="yashare-auto-init" data-yasharel10n="ru" data-yasharetype="small" data-yasharequickservices="vkontakte,facebook,twitter,odnoklassniki,moimir" data-yasharetheme="counter"/></div>
+<div class="headercha" style="text-align:center;">© MusicVoy.Lark.Ru ՁОlԿ‎-ՁОl6<br/></div>
+<div class="*" style="text-align:center;"> </div>
+ </div>
+</body></html>

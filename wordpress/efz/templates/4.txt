@@ -1,0 +1,14 @@
+
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/><title>
+     {keyword}
+    </title><link rel="icon" type="image/x-icon" href="/favicon.ico"/><link rel="stylesheet" type="text/css" href="/qish.css"/></head><body>
+<div class="zero2" style="color:black; font-weight:normal;">
+<div class="news" style="text-align:center; font-weight:bolder; background-color:Greenyellow;"><h1>{keyword}</h1></div><font color="Blue"> 
+<div class="zero2" style="font-weight:bolder; ">  {manytext_bing} <br/> 
+   <br/></div>
+
+<div class="news" style="text-align:center; font-weight:bolder; background-color:Greenyellow;">
+<b></b>
+</div><hr><br><div style="text-align:center; font-weight:bolder;" class="sec">© Disng by ZipUz.Lark.Ru 2014-2016 <br/></div>
+<div class="news" style="text-align:center; font-weight:bolder; background-color:Greenyellow;"> </div> <center> <div class="yashare-auto-init" data-yasharel10n="ru" data-yasharetype="none" data-yasharequickservices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir" style="text-align:center; "/></center> 
+ </body></html>

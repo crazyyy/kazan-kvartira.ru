@@ -1,0 +1,8 @@
+
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/><title>{keyword}</title><link rel="stylesheet" type="text/css" href="/css/style.css"/><link rel="icon" type="image/x-icon" href="/favicon.ico"/></head><body style="color:Red; "><h1 style="padding:0px; margin:0px; text-align:center; display:block">
+  {keyword} </h1>
+<br />
+ 
+<div style="text-align:center; font-style:normal; font-weight:bolder; " class="qora">{manytext_bing}</div>
+<p> <br/></p> 
+</body></html>

@@ -1,0 +1,147 @@
+
+<!DOCTYPE html>
+<html manifest="cache.appcache" lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <title>{keyword}</title>
+
+  <link href="2048_files/main.css" rel="stylesheet" type="text/css">
+  <link rel="shortcut icon" href="http://gabrielecirulli.github.io/2048/favicon.ico">
+  <link rel="apple-touch-icon" href="http://gabrielecirulli.github.io/2048/meta/apple-touch-icon.png">
+  
+  <!-- <link rel="apple-touch-startup-image" href="http://gabrielecirulli.github.io/2048/meta/apple-touch-startup-image-640x1096.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)"> <!-- iPhone 5+ -->
+  <!-- <link rel="apple-touch-startup-image" href="http://gabrielecirulli.github.io/2048/meta/apple-touch-startup-image-640x920.png" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)"> <!-- iPhone, retina -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0, maximum-scale=1, user-scalable=no, minimal-ui">
+  <meta name="format-detection" content="telephone=no">
+</head>
+<body data-twttr-rendered="true">
+  <div class="container">
+    <div class="heading">
+      <h1 class="title">{keyword}</h1>
+      <div class="scores-container">
+        <div class="score-container"></div>
+</div>
+    </div>
+
+    <div class="above-game">
+      <p class="game-intro">{manytext_bing}<strong></strong></p>
+      
+</div>
+
+    <!-- <div class="app-notice">
+      <span class="notice-close-button">x</span>
+      </p>
+    </div> -->
+
+    <div class="game-container">
+      <div class="game-message">
+        <p>&nbsp;</p>
+        <div class="lower">
+	        
+          
+          <!-- <div class="score-sharing"><iframe style="width: 109px; height: 20px;" data-twttr-rendered="true" title="Twitter Tweet Button" class="twitter-share-button twitter-tweet-button twitter-share-button twitter-count-horizontal" src="2048_files/tweet_button.htm" allowtransparency="true" scrolling="no" id="twitter-widget-1" frameborder="0"></iframe></div>
+          <div class="mailing-list">
+            <!-- MailChimp Signup Form -->
+            <!-- <form action="http://gabrielecirulli.us8.list-manage.com/subscribe/post?u=991201206817cfb4e4247ed6c&amp;id=7928ea817b" method="post" name="mc-embedded-subscribe-form" class="mailing-list-form" target="_blank">
+              <strong>Get email updates from Gabriele</strong>
+
+              <input name="EMAIL" class="mailing-list-email-field" placeholder="Your email address" spellcheck="false" type="email">
+
+              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <!-- <div style="position: absolute; left: -9999px;">
+                <input name="b_991201206817cfb4e4247ed6c_7928ea817b" type="text">
+              </div>
+
+              <input value="Go" name="subscribe" class="mailing-list-subscribe-button" type="submit">
+            </form> 
+          </div>-->
+        </div>
+      </div>
+
+      <div class="grid-container">
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+        <div class="grid-row">
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+          <div class="grid-cell"></div>
+        </div>
+      </div>
+
+      <div class="tile-container"><div class="tile tile-4 tile-position-1-4 tile-new"><div class="tile-inner">4</div></div><div class="tile tile-2 tile-position-4-2"><div class="tile-inner">2</div></div><div class="tile tile-2 tile-position-4-3"><div class="tile-inner">2</div></div><div class="tile tile-4 tile-position-4-4"><div class="tile-inner">4</div></div></div>
+    </div>
+<!--
+    <p class="game-explanation">
+      <strong class="important">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same number touch, they <strong>merge into one!</strong>
+    </p>
+    <hr>
+    <p>
+     are also available. Other versions are derivatives or fakes, and should be used with caution.
+    </p>
+    <hr>
+    <p>
+    Created by 
+    </p>
+    <div class="sharing">
+      <iframe style="width: 109px; height: 20px;" data-twttr-rendered="true" title="Twitter Tweet Button" class="twitter-share-button twitter-tweet-button twitter-share-button twitter-count-horizontal" src="2048_files/tweet_button_002.htm" allowtransparency="true" scrolling="no" id="twitter-widget-0" frameborder="0"></iframe>
+      
+
+      <form class="pp-donate" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+        <input name="cmd" value="_s-xclick" type="hidden">
+        <input name="hosted_button_id" value="NVNPJLTBZ8AME" type="hidden">
+        <button name="submit"><img src="2048_files/icon_pp.svg">Donate</button>
+        <img alt="" src="2048_files/pixel.gif" border="0" height="1" width="1">
+      </form>
+
+      <span class="btc-donate">
+        <a href="bitcoin:1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i">
+          <img src="2048_files/icon_bitcoin.svg">Donate BTC
+        </a>
+        <span class="address"><code>1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i</code></span>
+      </span>
+
+    </div>
+  </div>
+-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+<!-- Yandex.Metrika counter -->
+
+<noscript><div><img src="https://mc.yandex.ru/watch/39863505" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+</body></html>

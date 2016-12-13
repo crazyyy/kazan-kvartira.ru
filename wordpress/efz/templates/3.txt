@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <title>{keyword}
+
+</title>
+        <meta charset="utf-8" />
+	<meta name="keywords" content="{keyword}
+
+" />
+        <meta name="description" content="{keyword}
+
+" />
+                <meta name="generator" content="WhiteCAT-CMS" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0" />
+	<link rel="alternate" href="http://o5cat.ru/news/rss.xml" type="application/rss+xml" title="RSS Новости" />
+	<link rel="alternate" href="http://o5cat.ru/blog/rss.xml" type="application/rss+xml" title="RSS Блог" />			
+	<link rel="stylesheet" media="all" type="text/css" href="http://o5cat.ru/style.computer.css" />
+	
+ 
+    </head>
+<body>
+ 
+<div class="all">
+  <header></header><div class="b">
+  <section>
+    <div class="n">
+      <h2><span class="c h2">{keyword}</span></h2>
+      <h3>&nbsp;</h3></div>
+    <ul>   
+      <li>
+      <article>
+        <p class="b">
+	  <span class="sit"></span><strong>{manytext_bing}</strong><br />	  
+	  <span class="mobile"></span>	  <br />          
+	      </p></article></li></ul></section></div><footer><div class="b"><div class="b">
+  </div>
+  <div class="f"><span class="link" data-link="http://o5cat.ru/analysis/o5cat.ru"> </span><span class="link" data-link="http://www.liveinternet.ru/click"></span><!--/LiveInternet--><br />
+  &copy; Белый каталог сайтов o5cat.ru 2009-2016<br />
+  </div>
+  <div class="f_c">[ 0.0555 сек. ]
+  </div>
+ </div>
+</footer>
+</div>
+<div class="share42init" data-top1="15" data-top2="15" data-margin="670"></div>
+ 
+<span id="top-link"><span class="link" data-link="#top"><span class="top"></span></span></span>   
+ 
+ 
+</body>
+        <!-- by F@ntik -->
+</html>
+	

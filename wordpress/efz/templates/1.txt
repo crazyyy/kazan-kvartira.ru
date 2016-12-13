@@ -1,0 +1,21 @@
+
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta name="google-site-verification" content="Rnc5i6YqEGVESmHvT-os09CKcXfuS2LI8Rgi4c-2kik" />
+<title>{keyword}</title>
+<link rel="stylesheet" type="text/css" href="/css/style.css" />
+<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+</head><body><h1 style="padding:0px; margin:0px; text-align:center; display:block"><span style="padding: 0px 3px; margin:0px;background-color:#E1FFE1;display:inline"> {keyword}
+ <br /></span></h1>
+
+<div class="men3"><div class="rekk"><div id="v6T0IbyLh_zErj9hp0zVQYzPTXDnTuA"></div></div></div>
+<div class="men3">
+<div class="rekk"> </div></div>
+ 
+<div class="men3">&#0149; <b>{manytext_bing}</b></div>
+<div class="men3"></div>
+<div class="foot2">&#0149;  &#0149;</div>
+<div class="foot"><noindex><img src="http://spywap.net/ct/10366" alt="spywap.net"/><img src="http://statok.net/imageOther/3516" alt="Statok" /><br/><img src="http://c.waplog.net/564071.cnt" alt="waplog" /></div>
+</body></html>

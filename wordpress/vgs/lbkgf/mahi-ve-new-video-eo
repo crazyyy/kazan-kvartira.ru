@@ -1,0 +1,38 @@
+
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width; minimum-scale=1; maximum-scale=1"/>
+	<link rel="icon" href="view/image/avatar_s1.png" type="image/png">
+	<link rel="stylesheet" type="text/css" media="all" href="/view/style/index.css?ver=1.004" />
+	<title>Mahi ve new video eo</title>
+</head>
+<body>
+<div class="main" >
+			<div class="content">
+		<div class="start">
+	<div class="c-block large">
+					<img src="/view/image/welcome_en.png" />				<br />
+	    <span class="button_cont"><h1>Mahi ve new video eo</h1></span><br />
+		<em>  </em></div>
+
+    
+				<div class="c-block large orange_dark2">
+				<form action="/login" method="POST">
+					Name<br >
+					<input type="text" name="name" value=""/><br />
+					 Password<br >
+					<input type="password" name="password" /><br >
+															<input type="submit" class="mar" value="Log in" />
+				</form>
+				 		</div>
+	</div>
+		
+
+		
+		<div class="f-block">Online 518, Total 5603800<br />0.035 sec., 14:02:53<br />Overmobile © 2016, 12+ <br/><div class="counters"> </div></div>
+	</div>
+	</div>
+</body>
+</html>

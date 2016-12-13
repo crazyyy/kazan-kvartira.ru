@@ -1,0 +1,99 @@
+
+<html xml:lang="ru"><body>﻿<!DOCTYPE HTML PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+
+
+
+<meta name="description" content="{keyword}">
+<title>{keyword}</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="ru">
+<meta name="viewport" content="width=device-width;">
+<link rel="apple-touch-icon" 
+href="http://steklofibro-beton.ru/static/pda/img/apple-touch-icon.png">
+<link rel="stylesheet" type="text/css" media="screen, handheld" 
+href="%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_files/base.css">
+
+<style type="text/css" media="all">
+<!--
+@import url("искусственный камень_files/base.css");
+-->
+</style>
+<style type="text/css">
+<!--
+p.MsoNormal {
+margin-top:0cm;
+margin-right:0cm;
+margin-bottom:10.0pt;
+margin-left:0cm;
+line-height:115%;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+}
+-->
+</style>
+</head>
+<!-- BEGIN #out -->
+<div id="out">
+	<!-- BEGIN #header --><!-- END #header -->
+	<!-- BEGIN #pagemeta -->
+	<div class="pagemeta">
+		<p><span>
+
+</span></div><span>
+	<!-- END #pagemeta -->
+	<!-- BEGIN #gnav --><!-- END #gnav -->
+	
+	
+
+<!-- BEGIN #content -->
+<div class="content" id="content">
+
+
+        
+                <!-- BEGIN #topentry -->
+                <!-- END #topentry -->
+        
+
+        
+                <!-- BEGIN #entry -->
+                <div class="post-content">
+                  <p class="iphone">&nbsp;</p>
+                  <p class="MsoNormal" style="margin-bottom:.0001pt;line-height:normal;text-autospace:none;"><span style="font-family:'Arial CYR','sans-serif'; font-size:10.0pt; color:black; "><em><strong>{manytext_bing}</strong></em></span></p></div>
+</div>
+<!-- END #content -->
+
+<!-- BEGIN #search -->
+<div class="search"></div>
+<div class="nav">
+  <div class="navigation">
+    <ul>
+				<li></li>
+				<li></li>
+			</ul>
+		</div>
+</div>
+	<!-- END #nav -->
+	<!-- BEGIN #footer -->
+	</span><p class="footer">&nbsp;</p>
+	<span></span><span><!-- END #footer -->
+</span></div><span>
+<!-- END #out -->
+
+</span></body></html>
+
+    </body>
+</html>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+

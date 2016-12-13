@@ -1,0 +1,255 @@
+
+<!DOCTYPE html>
+<html id="mobile">
+<head>
+		<meta charset="utf-8" />
+		<title>{keyword}</title>
+		<meta name="description" content="{keyword}" />
+		<meta name="keywords" content="{keyword}" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		<link rel="search" type="application/opensearchdescription+xml" title="MP3.cc" href="/i/etc/opensearch.xml">
+		
+		<meta property="og:site_name" content="MP3.cc" />
+		<meta property="og:image" content="http://mp3.cc/i/img/site_prw0002.png" />
+		<meta property="og:type" content="music.song" />
+		<meta property="og:url" content="http://mp3.cc/m/482969-fetty-wap/" />
+		<meta property="og:title" content="Fetty Wap" />
+
+
+		<link rel="stylesheet" href="/i/css/_main_min.68a7cc86.css" />
+			 
+		
+		
+		
+		
+		
+	</head>
+
+<body data-playlist-url="/fav/" data-show-fav-tips="true">
+
+
+
+
+<!-- =============== xx1 -->
+<div id="xx1">
+	<!-- player-page-title -->
+	<div id="player-page-title" class="hidden">
+		<b>MP3.cc</b>
+		<span>Fetty Wap</span>
+	</div>
+	<!-- / player-page-title -->
+
+	
+		<!-- ===== header -->
+		<header id="header"><div id="header_x1">
+
+			<!--he-logo -->
+			
+			<!-- / he-logo -->
+			
+			<!-- user_block -->
+			<div id="user_block">
+				
+
+				<ul id="user_block-ul">
+					</li>
+				
+					
+						</li>
+						</li>
+					
+				</ul>
+			</div>
+			<!-- / user_block -->
+
+			<!-- he-search -->
+			<form id="he-search" action="/api/search" method="post"><div id="he-search_x1">
+				<input type="text" name="q" id="he-search-text" value="" placeholder="Поиск &mdash; введите название песни или исполнителя" />
+				<input type="submit" id="he-search-submit" value="" />
+				
+				
+			</div></form>
+			<!-- / he-search -->
+
+		</div></header>
+		<!-- / ===== header -->		
+				
+		<div id="brandingBanner">
+					</div>
+		
+		
+	<!-- =============== xx2 -->
+	<div class="rtform" id="xx2">
+		
+			<!-- ===== main_menu -->
+			<div id="main_menu">
+				<ul>
+	</li>
+	</li>
+	</li>
+	</li>
+</ul>
+			</div>
+			<!-- / ===== main_menu -->
+				
+		<!-- ##### xbody -->
+		<div id="xbody">
+			<!-- ===== CONTENT -->
+			<aside id="xbody-content">
+								<div class="xblock"><h1 class="title"><span class="prefix">{keyword}</span></h1>
+		<ul class="playlist">
+		<li class="track" data-index="0" data-id="1937892" data-mp3="http://storage.mp3.cc/listen/1937892/QVJHcnBIVlJJbHZ2ckthM3hRbU5xcUtra1VKV0phcG9pZkVhaFp1K2lPVDJWUXZzRGlSK3VKamxORWFUcGp0QUxLZi9kQzRGZitJRDdRZmlyL3o0QVpnWnhLYm5SZnloeHVxRytZWlBldHg0MWFOTG9SSXRtMlQ4eGs4MnRxS3Y/fetty-wap-trap-queen-k-theory-remix_(mp3.cc).mp3" data-url_song="http://mp3.cc/m/482969-fetty-wap/1937892-trap-queen-k-theory-remix/" data-duration="219000">
+
+			
+
+			<div class="playlist-btn">{manytext_bing}
+				
+				
+			</div>
+
+			<em>
+				
+
+				<span class="playlist-duration">03:39</span>
+			</em>
+			
+
+			<h2 class="playlist-name">
+				</b>
+				<i>&ndash;</i>
+				</em>
+			</h2>
+		</li>
+	
+		<li class="track" data-index="1" data-id="8877937" data-mp3="http://storage.mp3.cc/listen/8877937/QVJHcnBIVlJJbHZ2ckthM3hRbU5xcUtra1VKV0phcG9pZkVhaFp1K2lPVHhpUFgzdmg2WHYzRUdFbE11dHV1VzhMWmh1NVBYUWhIeVB2NVRzQkJQamxOKytCN2NOTURQSkk2T29lMGNZaUFhdjdDZDlCSjJiLzlKRFlzNnJVYXk/fetty-wap-trap-queen_(mp3.cc).mp3" data-url_song="http://mp3.cc/m/482969-fetty-wap/8877937-trap-queen/" data-duration="217000"><em>
+				
+
+			<span class="playlist-duration">03</span></em></li>
+		<li class="track" data-index="49" data-id="21905084" data-mp3="http://storage.mp3.cc/listen/21905084/QVJHcnBIVlJJbHZ2ckthM3hRbU5xcUtra1VKV0phcG9pZkVhaFp1K2lPU0lPYlJON20yOHFYaC9Ba2JuNlJsczAvcXowQk1uSStSNEJ0ckVNd2NMenFQREQ1c09qNy9oL2NJbWpNUDlaOUZKbTFWdzB4RVd3a1dYNVdGYzhXWjU/fetty-wap-wap-thru_(mp3.cc).mp3" data-url_song="http://mp3.cc/m/482969-fetty-wap/21905084-wap-thru/" data-duration="1300000">		  </li>
+	</li></ul>
+	</div>						
+								<div id="footerBanner">
+			<iframe src="/api/iframe/footer" scrolling="no"></iframe>
+		</div>
+		  </aside>
+			<!-- / ===== CONTENT -->
+
+			<!-- ===== SIDE-1 -->
+			<aside id="xbody-side1">
+				
+
+			<div class="small_biography">
+				<h2 class="small_biography-title">
+				<b>F</b></h2>
+
+				<div class="small_biography-p">
+					<div class="small_biography-prw"><img src="/public/artist/2077/2077368_Fetty_Wap.jpg" alt="" /></div>
+					
+					
+				</div>
+			</div>
+
+						</li></ul>						<div id="stickyblock">
+			<div id="stickyblockBanner">
+				<iframe src="/api/iframe/stickyblock" scrolling="no"></iframe>
+			</div>
+		</div>
+													</aside>
+			<!-- / ===== SIDE-1 -->
+		</div>
+		<!-- ##### /xBody -->
+
+	</div>
+	<!-- / =============== xx2 -->
+
+	
+		<!-- ===== footer -->
+		<footer id="footer"><div id="footer_x1">
+
+			<!-- rt_share -->
+			<span class="rt_share" data-url="http://mp3.cc/" data-title="Ну как, понравился сайт? Тогда поделись с друзьями!"></span>
+			<!-- / rt_share -->
+
+			
+			
+			
+			
+			<!-- == foo-letters -->
+			<ul class="foo-letters"><!--
+				--></li><!--
+		--></li><!--
+			--></ul>
+			<!-- / == foo-letters -->
+		
+			
+			<!-- foo-menu -->
+			<ul id="foo-menu"><!--
+				--></li><!--
+				--></li><!--
+				--></li><!--
+			--></ul>
+			<!-- / foo-menu -->
+			
+			<!-- foo-copyright -->
+			<div id="foo-copyright">&copy; 2016</div>
+			<!-- / foo-copyright -->
+
+		</div></footer>
+		<!-- / ===== footer -->
+	</div>
+<!-- / =============== xx1 -->
+
+
+		<!-- ===== fixplayer -->
+		<div id="fixplayer" class="noactive"><div id="fixplayer_x1">
+
+			<!-- == fixplayer-prok -->
+			<div id="fixplayer-prok">
+				<div id="fixplayer-prok2">
+
+					<!-- sk | pr -->
+					<span id="fixplayer-prok-sk" style="width: 100%;"></span>
+					<span id="fixplayer-prok-pr" style="width: 0%;"></span>
+					<!-- / sk | pr -->
+
+					<!-- fixplayer-time -->
+					<div id="fixplayer-time">
+					<b>0</b></div>
+					<!-- / fixplayer-time -->
+
+					<!-- fixplayer-lcd -->
+					<div id="fixplayer-lcd">
+						<div id="fixplayer-title"></div>
+						<div id="fixplayer-notification"></div>
+					</div>
+					<!-- / fixplayer-lcd -->
+
+				</div>
+			</div>
+			<!-- / == fixplayer-prok -->
+
+			<!-- == sound_icon | volume -->
+			
+			<div id="fixplayer-volume"><span id="fixplayer-volume-x" style="width: 100%;"></span></div>
+			<!-- / == sound_icon | volume -->			
+			
+			<!-- == fixplayer-pv -->
+			
+			<!-- / == fixplayer-pv -->
+
+			<!-- == fixplayer-foo -->
+			<div id="fixplayer-foo">
+				
+				
+				
+				
+			</div>
+			<!-- / == fixplayer-foo -->
+
+		</div></div>
+		<!-- / fixplayer -->
+			
+		
+</body>
+</html>
+<!-- 0,044491; 2 (0,014704942703247); 4 (0,00060057640075684); 0 (0). -->

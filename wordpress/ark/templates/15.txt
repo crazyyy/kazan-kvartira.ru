@@ -1,0 +1,8 @@
+
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru"><head><link rel="stylesheet" type="text/css" href="style.css"/><link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/><meta http-equiv="Content-Type" content="application/vnd.wap.xhtml+xml; charset=UTF-8"/><meta name="author" content="Ferdinand"/><title>{keyword}</title></head><body>
+<p style="padding:0px; margin:0px; text-align:center; display:block"> <span style="text-align:center; "> </span><br/></p>
+<div style="text-align:center; " class="head"><h1>{keyword}</h1><br/></div>
+<div class="g_m">  <br/><i>{manytext_bing}</i><br/></div>
+<div class="g_m"> </div><div class="r1" style="text-align:center; "> design by XURSHIDBEK  MomoxonCity.Cf | Sayt yaratuvchisi XURSHIDBEK</div>
+ 
+</body></html>

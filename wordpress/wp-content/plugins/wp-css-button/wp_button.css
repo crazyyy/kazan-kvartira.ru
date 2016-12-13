@@ -1,0 +1,28 @@
+.button_col {
+  float: left;
+  clear: both;
+  background: #690 url(images/bg_left.png) no-repeat;
+  padding: 0 0 0 10px;
+  margin: 5px 0;
+}
+
+.button_col a{
+  float: left;
+  height: 40px;
+  background: url(images/bg_stretch.png) repeat-x left top;
+  line-height: 40px;
+  padding: 0 1px;
+  color: #fff;
+  font-size: 1.3em;
+  text-decoration: none;
+  border-bottom: none;
+}
+.button_col span {
+  background: url(images/bg_right.png) no-repeat;
+  float: left;
+  width: 10px;
+  height: 40px;
+}
+.clear {
+  clear: both;
+}

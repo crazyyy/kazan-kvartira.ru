@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp photo text slider 6.2\n"
+"POT-Creation-Date: 2014-01-31 13:16+0800\n"
+"PO-Revision-Date: 2014-01-31 13:16+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-photo-text-slider-50.php:256 ../wp-photo-text-slider-50.php:257
+#: ../wp-photo-text-slider-50.php:268 ../pages/image-management-add.php:88
+#: ../pages/image-management-edit.php:106
+#: ../pages/image-management-show.php:51 ../pages/image-setting.php:5
+msgid "Wp photo text slider"
+msgstr ""
+
+#: ../wp-photo-text-slider-50.php:270 ../pages/image-management-add.php:167
+#: ../pages/image-management-edit.php:190
+#: ../pages/image-management-show.php:132 ../pages/image-setting.php:93
+msgid "Check official website for more information"
+msgstr ""
+
+#: ../wp-photo-text-slider-50.php:271 ../pages/image-management-add.php:168
+#: ../pages/image-management-edit.php:191
+#: ../pages/image-management-show.php:133 ../pages/image-setting.php:94
+msgid "click here"
+msgstr ""
+
+#: ../wp-photo-text-slider-50.php:288 ../wp-photo-text-slider-50.php:293
+msgid "Wp photo text slider 50"
+msgstr ""
+
+#: ../pages/image-management-add.php:49
+msgid "New details was successfully added."
+msgstr ""
+
+#: ../pages/image-management-add.php:80 ../pages/image-management-edit.php:98
+msgid "Click here to view the details"
+msgstr ""
+
+#: ../pages/image-management-add.php:90
+msgid "Add details"
+msgstr ""
+
+#: ../pages/image-management-add.php:92 ../pages/image-management-edit.php:110
+msgid "Enter image path (URL)"
+msgstr ""
+
+#: ../pages/image-management-add.php:94 ../pages/image-management-edit.php:112
+msgid "Where is the picture located on the internet"
+msgstr ""
+
+#: ../pages/image-management-add.php:97 ../pages/image-management-edit.php:115
+msgid "Enter target link"
+msgstr ""
+
+#: ../pages/image-management-add.php:99 ../pages/image-management-edit.php:117
+msgid "When someone clicks on the picture, where do you want to send them."
+msgstr ""
+
+#: ../pages/image-management-add.php:101
+#: ../pages/image-management-edit.php:119
+msgid "Select target option"
+msgstr ""
+
+#: ../pages/image-management-add.php:108
+#: ../pages/image-management-edit.php:126
+msgid "Do you want to open link in new window?"
+msgstr ""
+
+#: ../pages/image-management-add.php:110
+#: ../pages/image-management-edit.php:128
+msgid "Enter heading (Title)"
+msgstr ""
+
+#: ../pages/image-management-add.php:112
+#: ../pages/image-management-edit.php:130
+msgid "Enter your title."
+msgstr ""
+
+#: ../pages/image-management-add.php:114
+#: ../pages/image-management-edit.php:132
+msgid "Enter description"
+msgstr ""
+
+#: ../pages/image-management-add.php:116
+#: ../pages/image-management-edit.php:134
+msgid "Enter your description."
+msgstr ""
+
+#: ../pages/image-management-add.php:118
+msgid "Select gallery type (This is to group the images)"
+msgstr ""
+
+#: ../pages/image-management-add.php:143
+#: ../pages/image-management-edit.php:167
+msgid "This is to group the text. Select your slideshow group."
+msgstr ""
+
+#: ../pages/image-management-add.php:145
+#: ../pages/image-management-edit.php:169
+msgid "Display status"
+msgstr ""
+
+#: ../pages/image-management-add.php:150
+#: ../pages/image-management-edit.php:174
+msgid "Do you want the display this in your slider?"
+msgstr ""
+
+#: ../pages/image-management-add.php:152
+#: ../pages/image-management-edit.php:176
+msgid "Display order"
+msgstr ""
+
+#: ../pages/image-management-add.php:154
+#: ../pages/image-management-edit.php:178
+msgid "Enter your display order."
+msgstr ""
+
+#: ../pages/image-management-add.php:159
+msgid "Insert Details"
+msgstr ""
+
+#: ../pages/image-management-add.php:160
+#: ../pages/image-management-edit.php:183 ../pages/image-setting.php:86
+msgid "Cancel"
+msgstr ""
+
+#: ../pages/image-management-add.php:161
+#: ../pages/image-management-edit.php:184
+#: ../pages/image-management-show.php:121 ../pages/image-setting.php:87
+msgid "Help"
+msgstr ""
+
+#: ../pages/image-management-edit.php:16
+msgid "Oops, selected details doesnt exist."
+msgstr ""
+
+#: ../pages/image-management-edit.php:81
+msgid "Image details was successfully updated."
+msgstr ""
+
+#: ../pages/image-management-edit.php:108
+msgid "Update details"
+msgstr ""
+
+#: ../pages/image-management-edit.php:136
+msgid "Select gallery type (This is to group the content)"
+msgstr ""
+
+#: ../pages/image-management-edit.php:182
+msgid "Update Details"
+msgstr ""
+
+#: ../pages/image-management-show.php:21
+msgid "Oops, selected details doesnt exist"
+msgstr ""
+
+#: ../pages/image-management-show.php:39
+msgid "Selected record was successfully deleted."
+msgstr ""
+
+#: ../pages/image-management-show.php:52
+#: ../pages/image-management-show.php:119
+msgid "Add New"
+msgstr ""
+
+#: ../pages/image-management-show.php:65 ../pages/image-management-show.php:75
+msgid "Type / Group"
+msgstr ""
+
+#: ../pages/image-management-show.php:66 ../pages/image-management-show.php:76
+msgid "Heading"
+msgstr ""
+
+#: ../pages/image-management-show.php:67 ../pages/image-management-show.php:77
+msgid "Target"
+msgstr ""
+
+#: ../pages/image-management-show.php:68 ../pages/image-management-show.php:78
+msgid "Order"
+msgstr ""
+
+#: ../pages/image-management-show.php:69 ../pages/image-management-show.php:79
+msgid "Display"
+msgstr ""
+
+#: ../pages/image-management-show.php:94
+msgid "Edit"
+msgstr ""
+
+#: ../pages/image-management-show.php:95
+msgid "Delete"
+msgstr ""
+
+#: ../pages/image-management-show.php:109
+msgid "No records available."
+msgstr ""
+
+#: ../pages/image-management-show.php:120
+msgid "Setting Management"
+msgstr ""
+
+#: ../pages/image-management-show.php:125
+msgid "Plugin configuration option"
+msgstr ""
+
+#: ../pages/image-management-show.php:127
+msgid "Add the plugin in the posts or pages using short code."
+msgstr ""
+
+#: ../pages/image-management-show.php:128
+msgid "Add directly in to the theme using PHP code."
+msgstr ""
+
+#: ../pages/image-management-show.php:129
+msgid "Drag and drop the widget to your sidebar."
+msgstr ""
+
+#: ../pages/image-setting.php:32
+msgid "Details successfully updated."
+msgstr ""
+
+#: ../pages/image-setting.php:38
+msgid "Slider setting"
+msgstr ""
+
+#: ../pages/image-setting.php:41
+msgid "Widget title"
+msgstr ""
+
+#: ../pages/image-setting.php:43
+msgid "Please enter widget title."
+msgstr ""
+
+#: ../pages/image-setting.php:45
+msgid "Slider direction"
+msgstr ""
+
+#: ../pages/image-setting.php:52
+msgid "Please select slider direction."
+msgstr ""
+
+#: ../pages/image-setting.php:54
+msgid "Slider speed"
+msgstr ""
+
+#: ../pages/image-setting.php:56
+msgid "Speed of the slider."
+msgstr ""
+
+#: ../pages/image-setting.php:58
+msgid "Slider timeout"
+msgstr ""
+
+#: ../pages/image-setting.php:60
+msgid "Please enter your slider timeout."
+msgstr ""
+
+#: ../pages/image-setting.php:62
+msgid "Slider image group"
+msgstr ""
+
+#: ../pages/image-setting.php:81
+msgid "Please select your slider image group."
+msgstr ""
+
+#: ../pages/image-setting.php:85
+msgid "Submit"
+msgstr ""

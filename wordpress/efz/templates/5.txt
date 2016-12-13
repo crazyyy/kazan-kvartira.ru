@@ -1,0 +1,10 @@
+
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/><title>{keyword}
+    </title><link rel="icon" type="image/x-icon" href="/favicon.ico"/><link rel="stylesheet" type="text/css" href="/css/style.css"/></head><body> 
+<div class="ban" style="color:red; font-weight:bolder; ">      <br/></div>
+<div class="top"><span style="font-weight:bolder; color:red; "><h1>{keyword}</h1></span></div>
+<div class="ban" style="font-weight:bolder; color:red; ">      {manytext_bing}<br/></div>
+<div class="top"><span style="font-weight:bolder; color:red;"> </span></div>
+<div class="top"><span style="font-weight:bolder; color:red; ">NEEW.LARK.RU</span>           Saytda     Odam</div>
+<div class="end">Desing By MayCil<br/> <img src="http://justop.ru/image/4217" alt="рейтинг сайтов"/> <img src="http://statok.net/image/14253" alt="Statok.net"/> <img src="http://www.gigtop.ru/image/4322" alt=""/> </div>
+</body></html>
