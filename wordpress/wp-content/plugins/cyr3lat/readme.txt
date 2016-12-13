@@ -25,7 +25,7 @@ Based on the original Rus-To-Lat plugin by Anton Skorobogatov.
 
 == Installation ==
 
-1. Upload `cyr2lat` folder to the `/wp-content/plugins/` directory.
+1. Upload `cyr3lat` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Make sure your system has iconv set up right, or iconv is not installed at all. If you have any problems (trimmed slugs, strange characters, question marks) - please ask for support. 
 == Frequently Asked Questions ==

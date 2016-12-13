@@ -3,14 +3,18 @@
 Plugin Name: Wp photo text slider 50
 Plugin URI: http://www.gopiplus.com/work/2011/06/02/wordpress-plugin-wp-photo-slider-50/
 Description:  Wordpress plugin Wp photo text slider 50 create a photo (photo + heading + description) slider on the wordpress website.
-Author: Gopi.R
-Version: 6.2
-Author URI: http://www.gopiplus.com/work/
+Author: Gopi Ramasamy
+Version: 7.1
+Author URI: http://www.gopiplus.com/work/2011/06/02/wordpress-plugin-wp-photo-slider-50/
 Donate link: http://www.gopiplus.com/work/2011/06/02/wordpress-plugin-wp-photo-slider-50/
 Tags: wordpress, plugin, photo, slider
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: wp-photo-text-slider-50
+Domain Path: /languages
 */
+
+if(preg_match('#' . basename(__FILE__) . '#', $_SERVER['PHP_SELF'])) { die('You are not allowed to call this page directly.'); }
 
 global $wpdb, $wp_version;
 define("WP_PHOTO_50_TABLE", $wpdb->prefix . "wp_photo_50");
@@ -23,10 +27,10 @@ if ( ! defined( 'WP_PHOTO_50_PLUGIN_NAME' ) )
 	define( 'WP_PHOTO_50_PLUGIN_NAME', trim( dirname( WP_PHOTO_50_BASENAME ), '/' ) );
 	
 if ( ! defined( 'WP_PHOTO_50_PLUGIN_URL' ) )
-	define( 'WP_PHOTO_50_PLUGIN_URL', WP_PLUGIN_URL . '/' . WP_PHOTO_50_PLUGIN_NAME );
+	define( 'WP_PHOTO_50_PLUGIN_URL', plugins_url() . '/' . WP_PHOTO_50_PLUGIN_NAME );
 	
 if ( ! defined( 'WP_PHOTO_50_ADMIN_URL' ) )
-	define( 'WP_PHOTO_50_ADMIN_URL', get_option('siteurl') . '/wp-admin/options-general.php?page=wp-photo-text-slider-50' );
+	define( 'WP_PHOTO_50_ADMIN_URL', admin_url() . 'options-general.php?page=wp-photo-text-slider-50' );
 
 function wp_50_slider() 
 {
@@ -253,8 +257,8 @@ function wp_50_show_shortcode( $atts )
 
 function wp_50_add_to_menu() 
 {
-	add_options_page(__('Wp photo text slider', 'wp-photo-text'), 
-			__('Wp photo text slider', 'wp-photo-text'), 'manage_options', 'wp-photo-text-slider-50', 'wp_50_admin_options' );
+	add_options_page(__('Wp photo text slider', 'wp-photo-text-slider-50'), 
+			__('Wp photo text slider', 'wp-photo-text-slider-50'), 'manage_options', 'wp-photo-text-slider-50', 'wp_50_admin_options' );
 }
 
 if (is_admin()) 
@@ -265,10 +269,10 @@ if (is_admin())
 function wp_50_control() 
 {
 	echo '<p><b>';
-	_e('Wp photo text slider', 'wp-photo-text');
+	_e('Wp photo text slider', 'wp-photo-text-slider-50');
 	echo '.</b> ';
-	_e('Check official website for more information', 'wp-photo-text');
-	?> <a target="_blank" href="<?php echo WP_PHOTO_50_FAV; ?>"><?php _e('click here', 'wp-photo-text'); ?></a></p><?php
+	_e('Check official website for more information', 'wp-photo-text-slider-50');
+	?> <a target="_blank" href="<?php echo WP_PHOTO_50_FAV; ?>"><?php _e('click here', 'wp-photo-text-slider-50'); ?></a></p><?php
 }
 
 function wp_50_widget($args) 
@@ -285,12 +289,12 @@ function wp_50_widget_init()
 {
 	if(function_exists('wp_register_sidebar_widget')) 	
 	{
-		wp_register_sidebar_widget( __('Wp photo text slider 50', 'wp-photo-text'), __('Wp photo text slider 50', 'wp-photo-text'), 'wp_50_widget');
+		wp_register_sidebar_widget( __('Wp photo text slider 50', 'wp-photo-text-slider-50'), __('Wp photo text slider 50', 'wp-photo-text-slider-50'), 'wp_50_widget');
 	}
 	
 	if(function_exists('wp_register_widget_control')) 	
 	{
-		wp_register_widget_control( __('Wp photo text slider 50', 'wp-photo-text'), array( __('Wp photo text slider 50', 'wp-photo-text'), 'widgets'), 'wp_50_control');
+		wp_register_widget_control( __('Wp photo text slider 50', 'wp-photo-text-slider-50'), array( __('Wp photo text slider 50', 'wp-photo-text-slider-50'), 'widgets'), 'wp_50_control');
 	} 
 }
 
@@ -311,7 +315,7 @@ function wp_50_deactivation()
 
 function wp_50_textdomain() 
 {
-	  load_plugin_textdomain( 'wp-photo-text', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
+	  load_plugin_textdomain( 'wp-photo-text-slider-50', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
 }
 
 add_action('plugins_loaded', 'wp_50_textdomain');

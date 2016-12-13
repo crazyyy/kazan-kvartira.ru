@@ -5,8 +5,8 @@ Author URI: http://www.gopiplus.com/work/2011/06/02/wordpress-plugin-wp-photo-sl
 Plugin URI: http://www.gopiplus.com/work/2011/06/02/wordpress-plugin-wp-photo-slider-50/
 Tags: wordpress, plugin, photo, slider
 Requires at least: 3.4
-Tested up to: 3.8
-Stable tag: 6.2
+Tested up to: 4.7
+Stable tag: 7.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
@@ -43,26 +43,8 @@ Do you like to use the same scroll for your recent post instead of own content? 
 We have three option to install and configure this Image horizontal reel scroll slideshow plugin. 
 
 http://www.gopiplus.com/work/2011/06/02/wordpress-plugin-wp-photo-slider-50/
-
-**My other slidshow plugins**
-
-*   [Left right image slideshow gallery](http://www.gopiplus.com/work/2011/04/25/wordpress-plugin-left-right-image-slideshow-gallery/)	
-*   [Wordpress plugin up down image slideshow](http://www.gopiplus.com/work/2011/04/25/wordpress-plugin-up-down-image-slideshow-script/)	
-*   [Information reel](http://www.gopiplus.com/work/2011/04/16/wordpress-plugin-information-reel/)	
-*   [Vertical scroll recent post](http://www.gopiplus.com/work/2010/07/18/vertical-scroll-recent-post/)		
-*   [Superb slideshow gallery](http://www.gopiplus.com/work/2010/10/10/superb-slideshow-gallery/)		
-*   [Email newsletter](http://www.gopiplus.com/work/2010/09/25/email-newsletter/)			
-		 	
-To see my all plugin : [click here](http://www.gopiplus.com/work/plugin-list/)		
-
-Tags: Photo, Text, Slider
-
-Check official website for live demo and video tutorial [http://www.gopiplus.com/work/2011/06/02/wordpress-plugin-wp-photo-slider-50/](http://www.gopiplus.com/work/2011/06/02/wordpress-plugin-wp-photo-slider-50/)
-
 	
 == Installation ==	
-
-**Installation Instruction & Configuration**  	
 
 **Method 1**	
 
@@ -92,10 +74,7 @@ Q4. What is "Enter target option" in the image management form?
 
 Q5. Is possible to change the scroll style(Direction)?
 
-Click the below link to see answer for all questions!			
 More info : [click to go](http://www.gopiplus.com/work/2011/06/02/wordpress-plugin-wp-photo-slider-50/)		
-
-http://www.gopiplus.com/work/2011/04/25/wordpress-plugin-up-down-image-slideshow-script/	
 
 == Screenshots ==
 
@@ -149,6 +128,45 @@ Small bug fixed (Removed echo from the code)
 2. Now this plugin supports localization (or internationalization). i.e. option to translate into other languages. 
 Plugin *.po file (wp-photo-text.po) available in the languages folder.
 
+= 6.3 =
+
+1. Tested up to 3.9
+
+= 6.4 =
+
+1. Tested up to 4.0
+
+= 6.5 =
+
+1. Tested up to 4.1
+
+= 6.6 =
+
+1. Tested up to 4.2.2
+
+= 6.7 =
+
+1. Tested up to 4.3
+2. Image upload option is added in the plugin admin. With this option you can easily upload (or select from media) your images into this plugin.
+
+= 6.8 =
+
+1. Tested up to 4.4
+2. Text Domain slug has been added for Language Packs.
+
+= 6.9 =
+
+1. Tested up to 4.5
+2. Sanitization added for all input value.
+
+= 7.0 =
+
+1. Tested up to 4.6
+
+= 7.1 =
+
+1. Tested up to 4.7
+
 == Changelog ==
 
 = 1.0 =					
@@ -194,3 +212,42 @@ Small bug fixed (Removed echo from the code)
 1. Tested up to 3.8
 2. Now this plugin supports localization (or internationalization). i.e. option to translate into other languages. 
 Plugin *.po file (wp-photo-text.po) available in the languages folder.
+
+= 6.3 =
+
+1. Tested up to 3.9
+
+= 6.4 =
+
+1. Tested up to 4.0
+
+= 6.5 =
+
+1. Tested up to 4.1
+
+= 6.6 =
+
+1. Tested up to 4.2.2
+
+= 6.7 =
+
+1. Tested up to 4.3
+2. Image upload option is added in the plugin admin. With this option you can easily upload (or select from media) your images into this plugin.
+
+= 6.8 =
+
+1. Tested up to 4.4
+2. Text Domain slug has been added for Language Packs.
+
+= 6.9 =
+
+1. Tested up to 4.5
+2. Sanitization added for all input value.
+
+= 7.0 =
+
+1. Tested up to 4.6
+
+= 7.1 =
+
+1. Tested up to 4.7
