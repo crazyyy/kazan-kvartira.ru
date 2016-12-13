@@ -3,8 +3,8 @@ Contributors: Tips and Tricks HQ, wpsolutions, Peter Petreski, Ruhul Amin, mbrso
 Donate link: https://www.tipsandtricks-hq.com
 Tags: security, secure, Anti Virus, antivirus, ban, ban hacker, virus, firewall, firewall security, login, lockdown, htaccess, hack, malware, vulnerability, protect, protection, phishing, database, backup, plugin, sql injection, ssl, restrict, login captcha, bot, hotlink, 404 detection, admin, rename, all in one, scan, scanner, iframe,
 Requires at least: 3.5
-Tested up to: 4.6
-Stable tag: 4.2.2
+Tested up to: 4.7
+Stable tag: 4.2.4
 License: GPLv3
 
 A comprehensive, user-friendly, all in one WordPress security and firewall plugin for your site.
@@ -182,6 +182,18 @@ https://www.tipsandtricks-hq.com/wordpress-security-and-firewall-plugin
 None
 
 == Changelog ==
+
+= 4.2.4 =
+- Fix error on block_ip_if_locked(), doesn't exit with a wp_user. This is needed for other plugins that create the $user (aka ldap auth plugins).
+- Fix login error message for users with pending account approval.
+- Wordpress 4.7 compatibility.
+
+= 4.2.3 =
+- Fixed bug when math captcha was displayed on Woocommerce registration page.
+- Fixed login page bug for cases where email address and captcha are used to submit login form (thanks to @chesio for fix).
+- Logs directory now contains a .htaccess file with proper deny directives.
+- Small UX improvement: add for attribute to captcha label.
+- Added check for IIS server in get_server_type function.
 
 = 4.2.2 =
 - Debug logger class improvements.
